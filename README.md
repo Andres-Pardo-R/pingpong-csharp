@@ -53,7 +53,7 @@ The names of the Databus topics as well as the credentials used by the applicati
 ### Used components
 
 - Industrial Edge Management (IEM) V2.6.1-4 / V1.15.9
-  - Databus Configurator V2.0.0-5
+  - Databus Configurator V3.2.3
 - Industrial Edge Virtual Device (IED) V1.24.1-1b
   - Databus V3.2.3
   - Flow Creator V 1.19.2
@@ -96,7 +96,6 @@ The finished flow is available [here](/src/Flow_Pingpong_Test.json) and can be i
   - [Industrial Edge Forum](https://forum.mendix.com/link/space/industrial-edge)
   - [Industrial Edge landing page](https://new.siemens.com/global/en/products/automation/topic-areas/industrial-edge/simatic-edge.html)
   - [Industrial Edge GitHub page](https://github.com/industrial-edge)
-  - [Industrial Edge documentation page](https://docs.eu1.edge.siemens.cloud/index.html)
   - [Industrial Operation X - Edge documentation page](https://docs.industrial-operations-x.siemens.cloud/p/industrial-edge)
   
 ## Contribution
